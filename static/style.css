@@ -1,0 +1,23 @@
+body {
+    background: #f5f9fc;
+}
+.card {
+    border-radius: 12px;
+}
+.card-header {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+#regResult, #searchResult {
+    min-height: 30px;
+}
+.btn-outline-primary, .btn-success {
+    font-weight: 500;
+}
+input, textarea, select {
+    border-radius: 6px !important;
+}
+::-webkit-input-placeholder { color: #8aa; }
+::-moz-placeholder { color: #8aa; }
+:-ms-input-placeholder { color: #8aa; }
+::placeholder { color: #8aa; }
