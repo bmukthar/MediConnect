@@ -89,9 +89,9 @@ Contributions are welcome! Follow these steps:
 ---
 
 ## 📬 Contact  
-- **Author**: Mohammad Rizwan  
-- **GitHub**: [@Mohammad-Rizwan07](https://github.com/Mohammad-Rizwan07)  
-- **Email**: *(Add your email if needed)*  
+- **Author**: B Mohammed Mukthar  
+- **GitHub**: [@bmukthar](https://github.com/bmukthar)  
+- **Email**: bmukthar2@gmail.com  
 
 ---
 
